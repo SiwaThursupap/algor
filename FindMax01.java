@@ -3,7 +3,7 @@ void main() {
     int a = 10;
     int b = 555;
     int c = 25;
-
+    
     // เช็คว่า a เป็นค่ามากที่สุด
     if ((a > b) && (a > c)) {
         IO.println("A = " + a);
